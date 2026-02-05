@@ -12,7 +12,7 @@ The objective of this project was to implement a neural network from first princ
 
 Watch the trained neural network autonomously land the spacecraft:
 
-<video src="demonstrations/Playthrough_1.mp4" controls width="700"></video>
+https://github.com/user-attachments/assets/baa9144e-e094-414c-8486-aeea7711ee9d
 
 *The AI agent navigating and landing on the green landing zone*
 
